@@ -1,15 +1,17 @@
-### 𝗔𝗲𝘁𝗵𝗲𝗿𝗶𝗼𝗻 𝗗𝗠𝗔
+### Skydrift DMA
 
-Aetherion DMA is a community created with the goal of fighting fraud in the DMA cheat field. Here's why you should consider getting help from Aetherion DMA:
+Welcome to **Skydrift DMA**, your premier destination for high-quality Direct Memory Access (DMA) solutions.
+#### Why choose Skydrift DMA?
 
-🔹 Fair prices: 70% of DMA device and software sellers tend to inflate prices by up to 400% compared to the actual value, justifying the high cost with the promise of post-purchase support.
+* **Hardware & Cheats Sales:** We offer top-tier DMA devices and optimized software to guarantee maximum performance and security.
+* **Free Firmware:** Unlike many competitors who charge exorbitant fees for firmware, we provide free firmware options to help you get started without hidden costs.
+* **Dedicated Technical Support:** Whether it's the initial setup or troubleshooting complex technical issues, our team is available to guide you step-by-step.
 
-🔹 Honest and transparent support: Aetherion DMA stands out for offering support without false pretenses and without artificially increasing prices.
+---
 
-🔹 Reliability and trust: The Aetherion DMA community was created to fight fraud in the field and promote safe and transparent purchases.
+## 📌 Social & Community
 
-If you want to avoid scams and buy DMA devices and software at fair prices without compromise, Aetherion DMA is the right choice.
+Join our community for support, updates, and guides:
 
-## 📌 Social
-Join the community on Discord: [Click here to join the Discord](https://discord.gg/vNDbjpyPAA)  
-
+* **Discord:** [Click here to join the server](https://discord.gg/MPfeKEbrBs)
+* **TikTok:** [@skydriftdma](https://www.tiktok.com/@skydriftdma)
