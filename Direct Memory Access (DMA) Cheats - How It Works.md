@@ -1,7 +1,7 @@
 # How Direct Memory Access (DMA) Works
 
 
-Join the community on Discord: [Click here to join the Discord](https://discord.gg/vNDbjpyPAA)
+Join the community on Discord: [Click here to join the Discord Server](https://discord.gg/MPfeKEbrBs)
 
 
 ## 🛠️ How Does It Work?
@@ -19,7 +19,7 @@ A secondary system that runs the cheat software and processes game data.
 - Connected via PCI-Express to the Gaming PC.
 - Reads memory directly without triggering anti-cheat detections.
 
-### 🎮 KmBox (Keyboard & Mouse Emulator)
+### 🎮 Makcu or KmBox (Mouse Emulator)
 - A hardware device that mimics human-like keyboard and mouse inputs.
 - Used for aimbot, triggerbot, and other automated actions.
 
@@ -45,6 +45,6 @@ This repository is for educational and research purposes only. The use of DMA fo
 ---
 
 ## 📌 Social
-Join the community on Discord: [Click here to join the Discord](https://discord.gg/vNDbjpyPAA)
+Join the community on Discord: [Click here to join the Discord Server](https://discord.gg/MPfeKEbrBs)
 
 
