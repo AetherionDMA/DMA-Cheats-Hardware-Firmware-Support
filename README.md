@@ -1,6 +1,6 @@
 ### Skydrift DMA
 
-Welcome to **Skydrift DMA**, your premier destination for high-quality Direct Memory Access (DMA) solutions.
+Join **Skydrift DMA**, your premier destination for high-quality Direct Memory Access (DMA) solutions.
 #### Why choose Skydrift DMA?
 
 * **Hardware & Cheats Sales:** We offer top-tier DMA devices and optimized software to guarantee maximum performance and security.
@@ -14,4 +14,4 @@ Welcome to **Skydrift DMA**, your premier destination for high-quality Direct Me
 Join our community for support, updates, and guides:
 
 * **Discord:** [Click here to join the server](https://discord.gg/MPfeKEbrBs)
-* **TikTok:** [@skydriftdma](https://www.tiktok.com/@skydriftdma)
+* **TikTok:** [@skydriftdma](https://www.tiktok.com/@aetheriondma)
